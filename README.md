@@ -1,2 +1,2 @@
 kalkulatorGui
-[![N|Solid](https://github.com/rezaaulia552/kalkulatorGui/blob/master/sc1.png)](https://github.com/rezaaulia552/kalkulatorGui/blob/master/sc1.png)
+[![N|Solid](https://github.com/muhammadikram10/kalkulatorGui/blob/master/scrienshot.jpeg)](https://github.com/muhammadikram10/kalkulatorGui/blob/master/scrienshot.jpeg)
